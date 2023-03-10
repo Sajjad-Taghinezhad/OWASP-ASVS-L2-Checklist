@@ -1,5 +1,5 @@
 # OWASP-ASVS-L2-Checklist
-OWASP ASVS Leve 2 (L2) Excel Checklist
+OWASP ASVS Level 2 (L2) Excel Checklist
 
 Excel file for use as a checklist + status options
 
